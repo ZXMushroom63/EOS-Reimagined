@@ -1,0 +1,1 @@
+cmake --build build --config Debug --target eos_shared
